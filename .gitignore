@@ -11,3 +11,20 @@ __pycache__/
 # notebooks checkpoints
 .ipynb_checkpoints/
 .spyproject/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+WSL_test/.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
