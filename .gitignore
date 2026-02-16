@@ -1,0 +1,13 @@
+# virtual environments
+.venv/
+venv/
+env/
+WSL_test/.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+.spyproject/
