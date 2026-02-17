@@ -31,8 +31,8 @@ from scipy.ndimage import binary_erosion, binary_propagation, distance_transform
 # -----------------------------
 # USER SETTINGS
 # -----------------------------
-SLIDE_TIFF = r"E:\Digital_Pathology\Project\molar_data\tif_slides\DP00002001.tif"
-IN_GEOJSON = r"E:\Digital_Pathology\Project\Aron_to_share\Annotations\Adjusted_annotations\DP00002001.geojson.gz"
+SLIDE_TIFF = r"E:\Digital_Pathology\Project\molar_data\tif_slides\DP00002009.tif"
+IN_GEOJSON = r"E:\Digital_Pathology\Project\Aron_to_share\Annotations\Adjusted_annotations\DP000020019.geojson.gz"
 OUT_GEOJSON = r"E:\Digital_Pathology\Project\Aron_to_share\Annotations\Adjusted_annotations\adjustedagain\DP00002001_adjusted.geojson"
 OUT_GEOJSON_RAW = r"E:\Digital_Pathology\Project\Aron_to_share\Annotations\Adjusted_annotations\adjustedagain\DP00002001_unadjusted.geojson"
 

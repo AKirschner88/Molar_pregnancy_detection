@@ -19,16 +19,10 @@ from UNet_villi import UNet
 # EDIT THESE
 # ---------------------------
 MODEL_DIR = r"E:\Digital_Pathology\Project\Aron_to_share\Models"
-PT_PATH   = r"E:\Digital_Pathology\Project\Aron_to_share\Datasets\AKV22_img9_data_villi_multi_test.pytable"
+PT_PATH   = r"E:\Digital_Pathology\Project\Aron_to_share\Datasets\AKV11_img9_-75_data_villi_multi_test.pytable"
 
 MODEL_TAGS = [
     r"AKV13_data_villi_multi",
-    r"AKV22_data_villi_multi",
-    r"AKV23_data_villi_multi",
-    r"AKV24_data_villi_multi",
-    r"AKV25_data_villi_multi",
-    r"AKV26_data_villi_multi",
-    r"AKV27_data_villi_multi",
 ]
 
 # Optional: force ignore_index for ALL models (usually keep None)
